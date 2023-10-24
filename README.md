@@ -6,9 +6,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=footer&width=300" width="600">
-<img src="SharkDance.gif" width="500"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="600">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=880808&height=55&section=footer&width=400" width="650">
+<img src="aatroxHD.jpg" width="650"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=880808&height=55&section=header&width=400" width="650">
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&layout=donut-vertical&bg_color=000000&title_color=f0f&text_color=f0f&height=300)](https://github.com/byblis/github-readme-stats)
@@ -20,4 +20,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=713&pause=1000&color=f0f&background=FF30E600&center=false&vCenter=true&multiline=true&random=false&width=800&height=90&lines=%D0%9D%D0%BE%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D1%82%D0%B5%D0%BF%D0%BB%2C;%D0%B0+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%80%D1%8F%D1%87+%D0%B8+%D0%BD%D0%B5+%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%BD%2C;%D1%82%D0%BE+%D0%B8%D0%B7%D0%B2%D0%B5%D1%80%D0%B3%D0%BD%D1%83+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B8%D0%B7+%D1%83%D1%81%D1%82+%D0%9C%D0%BE%D0%B8%D1%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=25&duration=2000&pause=1000&color=731A1A&background=FF343400&multiline=true&random=false&width=600&height=200&lines=%22Blinded+by+the+elegance+of+a+thousand+suns;%E2%A0%80how+could+my+purpose+be+anything...+;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80but+dark...%22)](https://git.io/typing-svg)
