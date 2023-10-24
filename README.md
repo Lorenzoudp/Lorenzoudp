@@ -6,8 +6,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f0f&height=55&section=footer&width=300" width="800">
-<img src="output_.gif" width="800"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=footer&width=300" width="800">
+<img src="SharkDance.gif" width="800"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800">
 
 <!--
