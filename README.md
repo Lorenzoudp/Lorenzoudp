@@ -2,7 +2,7 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
      <tr>
-        <td align="center" width="500">
+        <td align="center" width="525">
         Eu sou o Lorenzo e estou em uma jornada com a estatística, aprendendo a compreender o que os dados tem a me dizer.
         </td>
         <td>
