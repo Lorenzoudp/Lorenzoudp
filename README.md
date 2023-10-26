@@ -5,11 +5,11 @@
 <br>
 <table align="center" style="border-collapse: collapse; border: none;">
      <tr>
-        <td align="center" width="525">
+        <td align="center" width="475">
         Atualmente estou em uma jornada com a estatística, aprendendo a compreender o que os dados tem a me dizer.
         </td>
         <td>
-        <img src="driven.gif" width="250" alt="Analyst">
+        <img src="driven.gif" width="300" alt="Analyst">
         </td>
     </tr>
 </table>
