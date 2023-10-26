@@ -1,13 +1,12 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Привет%2C+I'm+!)](https://git.io/typing-svg) -->
-<p align="center">
-     <img src="blue-banner.jpg" width="800"/>
-</p>
+<h1 align="center"> Oi! Lorenzo aqui ♾️ </h1> 
 
 
+<br>
 <table align="center" style="border-collapse: collapse; border: none;">
      <tr>
         <td align="center" width="525">
-        Eu sou o Lorenzo e estou em uma jornada com a estatística, aprendendo a compreender o que os dados tem a me dizer.
+        Atualmente estou em uma jornada com a estatística, aprendendo a compreender o que os dados tem a me dizer.
         </td>
         <td>
         <img src="driven.gif" width="250" alt="Analyst">
