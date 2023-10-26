@@ -1,4 +1,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Привет%2C+I'm+!)](https://git.io/typing-svg) -->
+<p align="center">
+     <img src="blue-banner.jpg" width="800"/>
+</p>
+
 
 <table align="center" style="border-collapse: collapse; border: none;">
      <tr>
