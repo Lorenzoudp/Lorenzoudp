@@ -2,11 +2,11 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
      <tr>
-        <td width="500">
-        Meu nome é Lorenzo e eu estou em uma jornada ao lado da estatística, aprendendo a compreender o que os dados tem a me dizer.
+        <td align="center" width="500">
+        Eu sou o Lorenzo e estou em uma jornada com a estatística, aprendendo a compreender o que os dados tem a me dizer.
         </td>
         <td>
-        <img src="data.gif" width="250" alt="Analyst">
+        <img src="driven.gif" width="250" alt="Analyst">
         </td>
     </tr>
 </table>
@@ -27,7 +27,7 @@
 <p align="center">
    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=000088&height=55&section=footer&width=400" width="800"> -->
    <img src="grafic.jpeg" width="800"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=000088&height=55&section=header&width=400" width="800"> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=000088&height=65&section=header&width=400" width="800"> 
  </p>
  
 
